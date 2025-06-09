@@ -1,0 +1,17 @@
+{
+  "name": "Sklep z biżuterią",
+  "short_name": "Biżuteria",
+  "description": "PWA sklep z ręcznie robioną biżuterią – złoto, srebro, drewno.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#888888",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/public/logo-apki.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
