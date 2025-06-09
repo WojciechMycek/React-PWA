@@ -41,5 +41,12 @@ Check and update vite-plugin-pwa:
 ` npm list vite-plugin-pwa `
 ` npm install vite-plugin-pwa --save-dev `
 
+# Code 
 
+Before running PWA mode in preview mode please uncomment these two lines in fail main.tsx
+
+```ts
+import { registerSW } from 'virtual:pwa-register';
+
+registerSW();
 
