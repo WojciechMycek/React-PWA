@@ -26,12 +26,12 @@ Command list:
 
 In developer mode:
 
-` npm run dev`
+`npm run dev`
 
 In previed mode:
 
-` npm run build `
-` npm run preview `
+`npm run build `
+`npm run preview `
 
 Before running in previe mode to use PWA featues you need to be sure that, you' are using the latest vite-plugin-pwa.
 Version 1.0 doesn't support PWA mode, but it can be seen in dev mode.
