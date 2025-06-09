@@ -20,7 +20,7 @@ Command list:
 
 `npm install vite-plugin-pwa@latest --save-dev`
 
-` npm i bootstrap`
+`npm i bootstrap`
 
 2 ways to run project:
 
